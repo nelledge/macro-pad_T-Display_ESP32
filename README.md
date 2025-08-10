@@ -2,14 +2,10 @@
 <!-- A 9x9 Macro Pad witch a screan. Its uses a ESP32 T-Display. 
 asdfads -->
 
-# 🚀 Project Name
+# A 9x9 macro pad with an LCD screen
 
-![GitHub last commit](https://img.shields.io/github/last-commit/USERNAME/REPO)
-![GitHub issues](https://img.shields.io/github/issues/USERNAME/REPO)
-![License](https://img.shields.io/badge/license-MIT-blue)
-![Stars](https://img.shields.io/github/stars/USERNAME/REPO?style=social)
 
-> ✨ A short, catchy one-line description of your project goes here.
+> A 9x9 macro pad with an LCD screen. It uses an ESP32 T-Display as the controller and a screen. 
 
 ---
 
