@@ -12,7 +12,8 @@ asdfads -->
 ## 📸 Screenshots
 
 <img src="images/outside.JPEG" alt="Screenshot" width="50%">
-![Screenshot](images/inside.JPEG)
+<img src="images/inside.JPEG" alt="Screenshot" width="50%">
+<!-- ![Screenshot](images/inside.JPEG) -->
 <!-- Tip: store your images in an /images folder in the repo -->
 
 ---
