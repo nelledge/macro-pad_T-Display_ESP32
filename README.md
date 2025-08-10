@@ -12,18 +12,17 @@
 <img src="images/inside.JPEG" alt="Screenshot" width="50%">
 
 
-## 📖 About
+## Features
+- 18 programmable buttons that uses 9 physical switches and one switch for switching the slide. 
+
+- On each slide a button has a different function.
+
+<!-- ## 📖 About
 
 Write a clear explanation of your project here.  
 Example:
 > This project is a tool that automates XYZ using Python.  
 > It helps save time, reduce errors, and make development more fun.
-
----
-
-## Features
-- 18 programmable buttons that uses 9 physical switches and one switch for switching the slide. 
-- On each slide a button has a different function.
 
 ## 🛠 Installation
 
@@ -35,4 +34,4 @@ git clone https://github.com/USERNAME/REPO.git
 cd REPO
 
 # Install dependencies
-npm install  # or pip install -r requirements.txt
+npm install  # or pip install -r requirements.txt -->
