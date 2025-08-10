@@ -23,7 +23,6 @@ Example:
 
 ## Features
 - 18 programmable buttons that uses 9 physical switches and one switch for switching the slide. 
-
 - On each slide a button has a different function.
 
 ## 🛠 Installation
