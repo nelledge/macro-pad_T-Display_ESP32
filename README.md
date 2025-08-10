@@ -1,32 +1,16 @@
-# macro-pad_T-Display_ESP32
-<!-- A 9x9 Macro Pad witch a screan. Its uses a ESP32 T-Display. 
-asdfads -->
+# Macro-Pad T-Display ESP32
 
 # A 9x9 macro pad with an LCD screen
 
 
 > A 9x9 macro pad with an LCD screen. It uses an ESP32 T-Display as the controller and a screen. 
 
----
 
-## 📸 Screenshots
+## 📸 Pictures
 
 <img src="images/outside.JPEG" alt="Screenshot" width="50%">
 <img src="images/inside.JPEG" alt="Screenshot" width="50%">
-<!-- ![Screenshot](images/inside.JPEG) -->
-<!-- Tip: store your images in an /images folder in the repo -->
 
----
-
-## 📜 Table of Contents
-- [About](#-about)
-- [Features](#-features)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Contributing](#-contributing)
-- [License](#-license)
-
----
 
 ## 📖 About
 
@@ -37,12 +21,10 @@ Example:
 
 ---
 
-## ✨ Features
-- ✅ Feature 1
-- ⚡ Feature 2
-- 🔒 Feature 3
+## Features
+- 18 programmable buttons that uses 9 physical switches and one switch for switching the slide. 
 
----
+- On each slide a button has a different function.
 
 ## 🛠 Installation
 
